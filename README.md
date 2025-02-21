@@ -31,12 +31,12 @@
   </a>
 </p>
 <!-- GitHub Stats -->
-<h3 align="center">🔥 My Stats </h3>
+<!-- <h3 align="center">🔥 My Stats </h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AhmedhassanB&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
        height="220" 
        alt="streak graph" />
-</p>
+</p> -->
 
 <!-- Connect With Me -->
 <h3 align="center">💬 Connect with me:</h3>
