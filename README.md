@@ -53,17 +53,8 @@
 </p>
 
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhassanb&show_icons=true&locale=en&layout=compact" 
-       alt="Top Languages" />
-</p>
-
-
-
 <!-- GitHub Contribution Snake -->
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
+<h2 align="center">🐍 GitHub Contribution</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedhassanB/AhmedhassanB/output/github-snake-dark.svg" />
